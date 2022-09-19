@@ -5,8 +5,11 @@ INDEX VERSION 1.131+C:\Users\Ahmet Pehlivan\Documents\GitHub\java2022\Lesson1\.m
 218528688.index
 497501758.index
 3938342583.index
+3092233680.index
 174833577.index
 3831881349.index
+3477638470.index
+558296170.index
 3620951056.index
 1865797976.index
 2046905126.index
