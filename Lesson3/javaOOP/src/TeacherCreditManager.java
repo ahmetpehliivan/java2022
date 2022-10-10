@@ -2,7 +2,7 @@ public class TeacherCreditManager implements ICreditManager{
 
     @Override
     public void calculate() {
-        //hesapalamalar
+        //hesaplamalar
         System.out.println("Öğretmen kredisi hesaplandı.");
     }
 
